@@ -42,10 +42,10 @@ Travel planning can be overwhelming with countless options for destinations, acc
 ## 🔧 Technology Stack
 
 - **AI Platform**: IBM Watson Assistant
-- **Model**: Mistral-Large
+- **Model**: IBM Granite
 - **Cloud Infrastructure**: IBM Cloud
 - **Deployment**: IBM Watson AI Agent Lab
-- **Integration**: RESTful APIs for real-time data
+
 
 
 

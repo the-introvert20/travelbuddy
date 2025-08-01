@@ -41,10 +41,10 @@ Travel planning can be overwhelming with countless options for destinations, acc
 
 ## 🔧 Technology Stack
 
-- **AI Platform**: IBM Watson Assistant
+- **AI Platform**: IBM Watsonx.ai Studioi
 - **Model**: IBM Granite
 - **Cloud Infrastructure**: IBM Cloud
-- **Deployment**: IBM Watson AI Agent Lab
+- **Deployment**: IBM Watsonx AI Agent Lab
 
 
 
@@ -56,29 +56,7 @@ Travel planning can be overwhelming with countless options for destinations, acc
 - Watson Assistant service instance
 - Basic understanding of AI agents
 
-### Installation
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/the-introvert20/travelbuddy.git
-   cd travelbuddy
-   ```
-
-2. **Set up IBM Watson Assistant**
-   - Import the Watson Assistant workspace from `/watson-config/`
-   - Configure your Watson Assistant credentials
-
-3. **Deploy the Agent**
-   - Upload the agent configuration to IBM Watson AI Agent Lab
-   - Configure webhooks and integrations
-   - Test in the preview environment
-
-4. **Environment Variables**
-   ```bash
-   WATSON_ASSISTANT_API_KEY=your_api_key
-   WATSON_ASSISTANT_URL=your_service_url
-   WATSON_ASSISTANT_ID=your_assistant_id
-   ```
 
 ## 💡 Usage Examples
 
@@ -156,10 +134,11 @@ API Integrations → Response Generation → User Interface
 
 ## 🙏 Acknowledgments
 
-- IBM Watson AI platform
+- IBM Watsonx AI platform
 - Open travel data APIs
 - Community feedback and contributions
 - Local travel experts for authentic recommendations
+- Edunet Foundation for this opportunity
 
 ---
 
